@@ -11,7 +11,7 @@ exports.fetchDropdownList = async (req, res) =>{
             diamondCategories : diamondList
         })
     } catch (error) {
-        console.log(error);
+        return res.status(400).json({error:error })
     }
 }
 
@@ -24,6 +24,6 @@ exports.fetchProductList = async (req, res) =>{
             products : products
         })
     } catch (error) {
-        console.log(error);
+        return res.status(400).json({error:error })
     }
 }

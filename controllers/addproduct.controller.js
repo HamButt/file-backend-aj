@@ -20,12 +20,11 @@ exports.upload = multer({
 exports.addProduct = async (req,res) =>{
     try {
         const {cId,title,description,price} = req.body;
-        console.log(cId,title,description,req.file.originalname,price);
         const data = await products.create({image:`${req.file.originalname}.jpg`,description,title,category_id:cId,price: `Rs. ${price}`})
         return res.status(200).json({
             message: data
         })
     } catch (error) {
-        console.log(error);
+        return res.status(400).json({error:error })
     }
     }

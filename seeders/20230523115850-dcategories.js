@@ -11,21 +11,28 @@ module.exports = {
         },
         {
           id:9,
-          title: 'Necklaces'},
+          title: 'Necklaces'
+        },
         {
           id:10,
-          title: 'Chains'},
+          title: 'Chains'
+        },
         {
           id:11,
-          title: 'Braceletes'},
-        {id:12,
-          title: 'Pendants'},
+          title: 'Braceletes'
+        },
+        {
+          id:12,
+          title: 'Pendants'
+        },
         {
           id:13,
-          title: 'Earrings'},
+          title: 'Earrings'
+        },
         {
           id:14,
-          title: 'Nose Pins'},
+          title: 'Nose Pins'
+        },
       ], {});
     
   },

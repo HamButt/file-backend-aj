@@ -1,5 +1,5 @@
 {
-  "name": "tanishqservar",
+  "name": "azmatjewellaryservar",
   "version": "1.0.0",
   "description": "jewellary project",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "multer": "^1.4.5-lts.1",
     "mysql": "^2.18.1",
     "mysql2": "^3.3.1",
+    "ngrok": "^5.0.0-beta.2",
     "nodemon": "^2.0.22",
     "sequelize": "^6.31.1"
   }

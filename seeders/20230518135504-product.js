@@ -45,7 +45,7 @@ module.exports = {
         category_id:1,
       },
 
-      // //gold necklace
+      // GOLD NECKALCES
 
         {
         image:"gn1.jpg",
@@ -88,7 +88,7 @@ module.exports = {
         category_id:2,
       },
 
-      // //gold chain
+      // GOLD CHAIN
 
         {
         image:"gc1.jpg",
@@ -136,7 +136,7 @@ module.exports = {
         category_id:3,
       },
 
-      // //gold bracelets
+      // GOLD BRACELETS
 
         {
         image:"gb1.jpg",
@@ -280,7 +280,7 @@ module.exports = {
         category_id:6,
       },
 
-      //  // gold nose pins
+      // GOLD NOSE PINS
 
        {
         image:"1np.jpg",
@@ -329,7 +329,7 @@ module.exports = {
       },
 
 
-      //DIAMOND ALL PRODUCTS
+      // DIAMOND ALL PRODUCTS
 
       // DIAMOND RINGS
 
@@ -374,7 +374,7 @@ module.exports = {
         category_id:8,
       },
 
-      // //DIAMOND NECKLACES
+      // DIAMOND NECKLACES
 
         {
         image:"dn1.jpg",
@@ -417,7 +417,7 @@ module.exports = {
         category_id:9,
       },
 
-      // //DIAMOND CHAINS
+      // DIAMOND CHAINS
 
         {
         image:"dc1.jpg",
@@ -465,7 +465,7 @@ module.exports = {
         category_id:10,
       },
 
-      // //DIAMOND BRACELETES
+      // DIAMOND BRACELETES
 
         {
         image:"db1.jpg",
@@ -513,7 +513,7 @@ module.exports = {
         category_id:11,
       },
       
-      // //DIAMOND PAENDANTS
+      // DIAMOND PAENDANTS
 
         {
         image:"dp1.jpg",
@@ -561,7 +561,7 @@ module.exports = {
         category_id:12,
       },
 
-      // //DIAMOND EARRINGS
+      // DIAMOND EARRINGS
       
         {
         image:"de1.jpg",
@@ -609,7 +609,7 @@ module.exports = {
         category_id:13,
       },
 
-      //  // DIAMOND NOSE PINS
+      // DIAMOND NOSE PINS
 
        {
         image:"dnp1.jpg",
@@ -705,7 +705,8 @@ module.exports = {
         description:"Engagement Rings",
         category_id:15,
       },
-      // GOLD BANDLES
+
+      // GOLD BANGLES
 
       {
         image:"gb1.jpg",

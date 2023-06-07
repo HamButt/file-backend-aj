@@ -12,6 +12,6 @@ exports.contactUs = async (req,res) => {
             Message: `Dear ${name} Thankyou...We have recieved your query.We will get back to you shortly`
         })
     } catch (error) {
-        console.log(error);
+        return res.status(400).json({error:error })
     }
 }
